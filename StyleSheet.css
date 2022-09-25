@@ -1,0 +1,36 @@
+#Introduction{
+   display:flex;
+    flex-direction:row;
+    border:2px solid gray;
+   height:150px;
+   background-color: lightgray;
+
+}
+#User-Info{
+    flex-direction:column
+}
+#Introudction #Photo{
+    display:flex;
+    align-self: center;
+}
+
+.Contact-Info{
+    list-style-type: none;
+
+}
+
+#Listing{
+    margin-top:18px
+}
+#Education{
+    display:flex;
+    flex-direction:row
+}
+#Education-Info{
+   
+    flex-direction:column
+}
+#Main-Content{
+    margin-Left:375px;
+    margin-top:20px
+}
